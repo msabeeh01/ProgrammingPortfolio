@@ -1,0 +1,10 @@
+.education{
+    display:block;
+    text-align: center;
+}
+
+.EducationParent{
+    background-color:rgb(39, 184, 135);
+    padding:20px;
+    text-align: center;
+}

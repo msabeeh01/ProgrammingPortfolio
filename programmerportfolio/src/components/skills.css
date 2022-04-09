@@ -1,0 +1,21 @@
+.frameworks{
+    display:block;
+    text-align: center;
+}
+
+.frontend{
+    display:block;
+    text-align: center;
+}
+
+.backend{
+    display:block;
+    text-align: center;
+
+    margin-top:30px;
+}
+
+.SkillsParent{
+    background-color: aquamarine;
+    padding:20px;
+}
