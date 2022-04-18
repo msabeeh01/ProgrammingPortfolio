@@ -1,17 +1,21 @@
 .SplashImageParent{
     display:flex;
     justify-content: center;
-    height:100vh;
-    margin: 0;
+    height:85vh;
+    background-color: aquamarine;
+    padding-top:20px;
 }
 
 .splashtext{
     background-color: aliceblue;
-    width: 35%;
+    width: 32%;
+    margin-left:10px;
     padding:1vw;
     display: flex;
     justify-content: center;
     flex-direction: column;
+    border-radius: 10px;
+    text-align: center;
 }
 
 .splashImage{
@@ -19,11 +23,12 @@
     justify-content: center;
     flex-direction: column;
     background-color: aquamarine;
-    width: 65%;
+    width: 70%;
     padding:1vw;
     text-align: center;
 
 }
+
 
 img {
     max-width: 100%;

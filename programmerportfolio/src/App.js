@@ -1,12 +1,15 @@
 import './App.css';
-import Navbar from './components/navbar'
-import SplashImage from './components/splashimage';
+import React from 'react';
+import Navbar from './components/Navbar/navbar'
+import SplashImage from './components/SplashImage/splashimage';
+import Cards from './components/Cards/cards';
 
 function App() {
   return (
     <div className="tableofcontents">
       <Navbar />
       <SplashImage />
+      <Cards />
     </div>
   );
 }
